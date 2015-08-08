@@ -1,0 +1,10 @@
+Package: com.maxduke.initial
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: maxduke <maxduke@gmail.com>
+Depends: winterBoard
+Section: Themes (SpringBoard)
+Description: Self inital tweak
+Author: maxduke <maxduke@gmail.com>
+Name: Initial
+
